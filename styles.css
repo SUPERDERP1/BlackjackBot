@@ -22,7 +22,7 @@ h1 {
 button {
     background-color:indianred;
     text-align: center;
-    font-size: 200%;
+    font-size: 200%
     font-weight: normal;
     color: black;
     border: 5px solid black;
@@ -119,4 +119,5 @@ img:hover {
 
 section {
     overflow:hidden;
+
 }
