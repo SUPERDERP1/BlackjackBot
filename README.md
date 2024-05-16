@@ -11,4 +11,4 @@ Click the files above to see code
 <br>
 In hint mode the bot will tell you the optimal move to play at any given hand.
 <br>
-To enter auto play mode, press the button that says HINT.
+To enter auto play mode, press the button that says HINT. (I know, blame Max)
