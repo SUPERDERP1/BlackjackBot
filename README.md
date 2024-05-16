@@ -1,6 +1,7 @@
 # BlackjackBot
 Our school project: A blackjack bot that will either play the game for you or give you helpful hints on what to do.
-
+<br>
+[Click here to play the game for yourself.](https://superderp1.github.io/BlackjackBot/)
 This is a science fair project for a blackjack bot.
 <br>
 <br>
